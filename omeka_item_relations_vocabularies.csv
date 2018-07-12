@@ -1,0 +1,6 @@
+"1","Dublin Core","Relations defined by DCMI Metadata Terms: http://dublincore.org/documents/dcmi-terms/","dcterms","http://purl.org/dc/terms/","0"
+"2","BIBO","Relations defined by the Bibliographic Ontology (BIBO): http://bibotools.googlecode.com/svn/bibo-ontology/trunk/doc/index.html","bibo","http://purl.org/ontology/bibo/","0"
+"3","FOAF","Relations defined by the Friend of a Friend vocabulary (FOAF): http://xmlns.com/foaf/spec/","foaf","http://xmlns.com/foaf/0.1/","0"
+"4","FRBR","Relations defined by the Functional Requirements for Bibliographic Records (FRBR): http://vocab.org/frbr/core.html","frbr","http://purl.org/vocab/frbr/core#","0"
+"5","Custom","Custom vocabulary containing relations defined for this Omeka instance.",,NULL,"1"
+"6","BIO","The BIO vocabulary contains terms useful for finding out more about people and their backgrounds and has some cross-over into genealogical information.","bio","http://purl.org/vocab/bio/0.1/","0"

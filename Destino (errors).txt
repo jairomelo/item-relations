@@ -1,0 +1,4 @@
+﻿Rec. Ley. Ind.,"""Rec. Ley. Ind."" is not a number"
+Novísima Rec.,"""Novísima Rec."" is not a number"
+7 Partidas,"""7 Partidas"" is not a number"
+Rec. Castilla,"""Rec. Castilla"" is not a number"
